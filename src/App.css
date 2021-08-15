@@ -10,3 +10,8 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.App h1 {
+  position: relative;
+  z-index: 2;
+}
